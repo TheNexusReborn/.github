@@ -15,3 +15,8 @@ NexusHub is the plugin for the Hub Servers
 NexusSurvivalGames is the plugin for the Survival Games gamemode
 
 All of these use the Maven build tool, so all you have to do is download them and import using Maven
+
+If you need to get into contact or want to interact with the community, we have an official Discord Server found here: https://discord.gg/Tw8FpvcMnW
+We also have a Forums found here: https://thenexusreborn.com/forums/index.php
+
+Firestar311 (me) is the only developer at this time, if you have any questions, please join the discord and send me a message. My DMs are open to server members
